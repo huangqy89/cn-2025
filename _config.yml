@@ -5,9 +5,9 @@ course_description: "This course offers an in-depth exploration of computer netw
 Topics covered include network architecture, packet-switching and circuit-switching,  congestion control, software-defined networks, and wireless networks. The course also emphasizes practical applications of networking concepts through hands-on lab work and problem-solving exercises.<br /> <br /> 
 
 By the end of the course, students will have a comprehensive understanding of both theoretical and practical aspects of modern computer networks, preparing them for advanced study or careers in network administration, cybersecurity, and cloud computing."
-course_semester: "Fall 2024"
+course_semester: "Fall 2025"
 
-baseurl: "/cn-2024" # the subpath of your site, e.g. /blog/
+baseurl: "/cn-2025" # the subpath of your site, e.g. /blog/
 url: "https://huangqy89.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sun Yat-sen University"
@@ -46,7 +46,7 @@ collections:
         output: true
     announcements:
         output: false
-    experiments:
+    laboratories:
         output: true
 
 
@@ -58,8 +58,8 @@ defaults:
       layout: "assignment"
   - scope:
       path: ""
-      type: "experiments"
+      type: "laboratories"
     values:
-      layout: "experiment"
+      layout: "laboratory"
 
-repository: huangqy89/cn-2024
+repository: huangqy89/cn-2025
