@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-08
+date: 2025-09-07
 title: Chapter 1
 tldr: "Computer Networks and the Internet."
 thumbnail: /static_files/lectures/internet.png
